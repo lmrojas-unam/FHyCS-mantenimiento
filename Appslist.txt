@@ -1,0 +1,135 @@
+# -------------------------------------------------------------------------------------------------------------- #
+#Las aplicaciones debajo de esta línea se desinstalarán de forma predeterminada. Agregue un carácter # delante de cualquier aplicación que desee #
+# MANTENER instalado de forma predeterminada.                                                                            #
+# -------------------------------------------------------------------------------------------------------------- #
+Clipchamp.Clipchamp
+Microsoft.3DBuilder
+Microsoft.549981C3F5F10   #Cortana app
+Microsoft.BingFinance
+Microsoft.BingFoodAndDrink            
+Microsoft.BingHealthAndFitness         
+Microsoft.BingNews
+Microsoft.BingSports
+Microsoft.BingTranslator
+Microsoft.BingTravel 
+Microsoft.BingWeather
+Microsoft.Getstarted   # Cannot be uninstalled in Windows 11
+Microsoft.Messaging 
+#Microsoft.Microsoft3DViewer  #comentado por LMR 27/08/2024
+Microsoft.MicrosoftJournal
+Microsoft.MicrosoftOfficeHub
+Microsoft.MicrosoftPowerBIForWindows
+Microsoft.MicrosoftSolitaireCollection
+Microsoft.MicrosoftStickyNotes
+Microsoft.MixedReality.Portal
+Microsoft.NetworkSpeedTest
+Microsoft.News
+Microsoft.Office.OneNote
+Microsoft.Office.Sway
+Microsoft.OneConnect
+Microsoft.Print3D
+Microsoft.SkypeApp
+Microsoft.Todos
+Microsoft.WindowsAlarms
+Microsoft.WindowsFeedbackHub
+Microsoft.WindowsMaps
+Microsoft.WindowsSoundRecorder
+Microsoft.XboxApp   # Old Xbox Console Companion App, no longer supported
+Microsoft.ZuneVideo
+MicrosoftCorporationII.MicrosoftFamily   # Family Safety App
+MicrosoftCorporationII.QuickAssist
+MicrosoftTeams   # Old MS Teams personal (MS Store)
+MSTeams   # New MS Teams app
+
+ACGMediaPlayer
+ActiproSoftwareLLC
+AdobeSystemsIncorporated.AdobePhotoshopExpress
+Amazon.com.Amazon
+AmazonVideo.PrimeVideo
+Asphalt8Airborne 
+AutodeskSketchBook
+CaesarsSlotsFreeCasino
+COOKINGFEVER
+CyberLinkMediaSuiteEssentials
+DisneyMagicKingdoms
+Disney
+DrawboardPDF
+Duolingo-LearnLanguagesforFree
+EclipseManager
+Facebook
+FarmVille2CountryEscape
+fitbit
+Flipboard
+HiddenCity
+HULULLC.HULUPLUS
+iHeartRadio
+Instagram
+king.com.BubbleWitch3Saga
+king.com.CandyCrushSaga
+king.com.CandyCrushSodaSaga
+LinkedInforWindows
+MarchofEmpires
+Netflix
+NYTCrossword
+OneCalendar
+PandoraMediaInc
+PhototasticCollage
+PicsArt-PhotoStudio
+Plex
+PolarrPhotoEditorAcademicEdition
+Royal Revolt
+Shazam
+Sidia.LiveWallpaper
+SlingTV
+Spotify
+TikTok
+TuneInRadio
+Twitter
+Viber
+WinZipUniversal
+Wunderlist
+XING
+
+
+
+
+# ------------------------------------------------------------------------------------------------------------- #
+#  Las aplicaciones debajo de esta línea NO se desinstalarán de forma predeterminada. Elimina el carácter # delante de cualquier aplicación que #
+# quiero DESINSTALAR de forma predeterminada.                                                                            #
+# ------------------------------------------------------------------------------------------------------------- #
+#Microsoft.BingSearch                   # Web Search from Microsoft Bing (Integrates into Windows Search)
+#Microsoft.Edge                         # Edge browser (Can only be uninstalled in European Economic Area)
+#Microsoft.GetHelp                      # Required for some Windows 11 Troubleshooters
+#Microsoft.MSPaint                      # Paint 3D
+#Microsoft.OneDrive                     # OneDrive consumer
+#Microsoft.Paint                        # Classic Paint
+#Microsoft.ScreenSketch                 # Snipping Tool
+#Microsoft.Whiteboard                   # Only preinstalled on devices with touchscreen and/or pen support
+#Microsoft.Windows.Photos
+#Microsoft.WindowsCalculator
+#Microsoft.WindowsCamera
+#Microsoft.WindowsStore                 # Microsoft Store, WARNING: This app cannot be reinstalled!
+#Microsoft.WindowsTerminal              # New default terminal app in windows 11
+#Microsoft.Xbox.TCUI                    # UI framework, seems to be required for MS store, photos and certain games
+#Microsoft.XboxIdentityProvider         # Xbox sign-in framework, required for some games
+#Microsoft.XboxSpeechToTextOverlay      # Might be required for some games, WARNING: This app cannot be reinstalled!
+#Microsoft.YourPhone                    # Phone link
+#Microsoft.ZuneMusic                    # Modern Media Player
+
+
+
+
+# --------------------------------------------------------------------------------------------------------------- #
+#  Las aplicaciones debajo de esta línea NO se desinstalarán de forma predeterminada, a menos que se seleccionen durante la selección de aplicaciones en modo personalizado #
+# o al iniciar el script con los parámetros específicos que se encuentran en README.md. Elimina el carácter # en #
+# frente a cualquier aplicación que desee DESINSTALAR de forma predeterminada.                                                           #
+# --------------------------------------------------------------------------------------------------------------- #
+#Microsoft.GamingApp                    # Modern Xbox Gaming App, required for installing some PC games
+#Microsoft.OutlookForWindows            # New mail app: Outlook for Windows
+#Microsoft.People                       # Required for & included with Mail & Calendar
+#Microsoft.PowerAutomateDesktop
+#Microsoft.RemoteDesktop
+#Microsoft.windowscommunicationsapps    # Mail & Calendar
+#Microsoft.XboxGameOverlay              # Game overlay, required/useful for some games
+#Microsoft.XboxGamingOverlay            # Game overlay, required/useful for some games
+#Windows.DevHome
